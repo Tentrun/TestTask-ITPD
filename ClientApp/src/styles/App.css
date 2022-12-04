@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    justify-content: center;
+}
+
+.project-wrap{
+    display: inline-flex;
+}
+
+.project{
+    border-radius: 10px;
+    display: inline-flex;
+    float: left;
+    padding: 5px;
+    border: 2px solid dodgerblue;
+    margin-top: 15px;
+    margin-right: 10px;
+    justify-content: space-between;
+    align-items: center;
+}

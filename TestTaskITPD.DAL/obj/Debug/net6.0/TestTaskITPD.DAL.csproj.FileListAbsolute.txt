@@ -1,0 +1,17 @@
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\bin\Debug\net6.0\TestTaskITPD.DAL.deps.json
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\bin\Debug\net6.0\TestTaskITPD.DAL.runtimeconfig.json
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\bin\Debug\net6.0\TestTaskITPD.DAL.dll
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\bin\Debug\net6.0\TestTaskITPD.DAL.pdb
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\bin\Debug\net6.0\TestTaskITPD.Domain.dll
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\bin\Debug\net6.0\TestTaskITPD.Domain.pdb
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.csproj.AssemblyReference.cache
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.AssemblyInfoInputs.cache
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.AssemblyInfo.cs
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.csproj.CoreCompileInputs.cache
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.csproj.CopyComplete
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.dll
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\refint\TestTaskITPD.DAL.dll
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.pdb
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\TestTaskITPD.DAL.genruntimeconfig.cache
+D:\Dev\TestTasks\TestTaskITPD\TestTaskITPD.DAL\obj\Debug\net6.0\ref\TestTaskITPD.DAL.dll
