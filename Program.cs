@@ -1,7 +1,10 @@
+using System.Net;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using TestTaskITPD.DAL;
 using TestTaskITPD.DAL.Interfaces.Implementations;
 using TestTaskITPD.DAL.Repositories;
+using TestTaskITPD.Domain.Response;
 using TestTaskITPD.Service.Implementations.Services;
 using TestTaskITPD.Service.Interfaces.Implementations;
 
@@ -48,6 +51,15 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+app.UseExceptionHandler(c => c.Run(async context =>
+{
+    var exception = context.Features
+        .Get<IExceptionHandlerPathFeature>()
+        ?.Error;
+    var response = new BaseResponse<string>(){ Description = exception.Message ,StatusCode = HttpStatusCode.InternalServerError };
+    await context.Response.WriteAsJsonAsync(response);
+}));
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

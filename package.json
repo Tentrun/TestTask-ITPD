@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@y0c/react-datepicker": "^1.0.4",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-datepicker": "^4.8.0"
+  }
+}
